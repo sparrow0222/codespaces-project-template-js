@@ -51,6 +51,7 @@ h1 {
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
+  color:rgb(246, 248, 251)
 }
 
 h2 {
@@ -58,6 +59,7 @@ h2 {
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
+  color:rgb(255, 255, 255)
 }
 
 h3 {
@@ -94,12 +96,12 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
 a:hover {
-  color: #4e567e;
+  color: #8d7c7c;
 }
 
 .container {

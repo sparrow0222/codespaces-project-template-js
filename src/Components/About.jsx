@@ -24,19 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "SPORT GUARD/CEO ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "SECRET ZONE DEODORANT",
+  "COOLDOWN BODY LOTION",
+  "SPORT SUNSCREAM",
+  "SPORT WIPES",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "SPORT GUARD is a performance-driven personal care brand designed for athletes and active individuals. We specialize in creating functional, eco-conscious products that target sweat, odor, and skin recovery—especially in sensitive zones. Inspired by real experiences in fitness and training environments, our formulas combine safe, natural ingredients with cutting-edge cooling and antibacterial technology. Starting with our groin-specific deodorant and cooling body lotion, we are redefining how athletes care for their bodies—before, during, and after performance. With sustainability and global expansion in mind, SPORT GUARD is building the future of sports hygiene, one clean sweat at a time.";
 
 const About = () => {
   return (
